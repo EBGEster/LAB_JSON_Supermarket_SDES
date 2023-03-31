@@ -1,0 +1,514 @@
+{
+    "supermercados": [
+        {
+            "id": "01",
+            "nombre": "Carrefour",
+            "direccion": "Av. de los Labradores, 9, 11",
+            "cp": 28760,
+            "poblacion": "Tres Cantos",
+            "provincia": "Madrid",
+            "geolocalizacion": [
+                40.59977662673469,
+                -3.7082287400609313
+            ],
+            "seccion": [
+                {
+                    "fruteria": [
+                        {
+                            "nombre": "tomate rama",
+                            "descripcion": "tomate rama huerta Murcia",
+                            "perecedero": true,
+                            "precioVta": 3.27,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "pera conferencia",
+                            "descripcion": "pera conferencia denominación origen Bierzo",
+                            "perecedero": true,
+                            "precioVta": 2.1,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "plátano de Canarias",
+                            "descripcion": "plátano de Canarias",
+                            "perecedero": true,
+                            "precioVta": 3.7,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": false,
+                                "porcentajeDescuento": 0,
+                                "vigenciaDesde": "",
+                                "vigenciaHasta": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "carniceria": [
+                        {
+                            "nombre": "filete de ternera",
+                            "descripcion": "filete de ternera de 2ª",
+                            "perecedero": true,
+                            "precioVta": 8.7,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "pollo",
+                            "descripcion": "muslos de pollo deshuesados",
+                            "perecedero": true,
+                            "precioVta": 7.1,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "salchichas",
+                            "descripcion": "salchichas de cerdo",
+                            "perecedero": true,
+                            "precioVta": 5.2,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": false,
+                                "porcentajeDescuento": 0,
+                                "vigenciaDesde": "",
+                                "vigenciaHasta": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "drogueria": [
+                        {
+                            "nombre": "Wipp Express",
+                            "descripcion": "Detergente para lavar ropa",
+                            "perecedero": false,
+                            "precioVta": 15,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": false,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 5,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "Fairy lavavajillas",
+                            "descripcion": "Jabón para lavar platos",
+                            "perecedero": false,
+                            "precioVta": 4.1,
+                            "unidades": "0.5",
+                            "unidadDeMedida": "l",
+                            "adquirido": false,
+                            "habitual": false,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 10,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "Scotex papel higiénico",
+                            "descripcion": "Papel higiénico 4 capas",
+                            "perecedero": false,
+                            "precioVta": 7.5,
+                            "unidades": "12",
+                            "unidadDeMedida": "rollo",
+                            "adquirido": true,
+                            "habitual": false,
+                            "oferta": {
+                                "activa": false,
+                                "porcentajeDescuento": 0,
+                                "vigenciaDesde": "",
+                                "vigenciaHasta": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "02",
+            "nombre": "Mercadona",
+            "direccion": "Av. de la Libertad, 91",
+            "cp": 28770,
+            "poblacion": "Colmenar Viejo",
+            "provincia": "Madrid",
+            "geolocalizacion": [
+                40.65888482511551,
+                -3.758284923741977
+            ],
+            "seccion": [
+                {
+                    "fruteria": [
+                        {
+                            "nombre": "tomate rama",
+                            "descripcion": "tomate rama huerta Murcia",
+                            "perecedero": true,
+                            "precioVta": 3.27,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "pera conferencia",
+                            "descripcion": "pera conferencia denominación origen Bierzo",
+                            "perecedero": true,
+                            "precioVta": 2.1,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "plátano de Canarias",
+                            "descripcion": "plátano de Canarias",
+                            "perecedero": true,
+                            "precioVta": 3.7,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": false,
+                                "porcentajeDescuento": 0,
+                                "vigenciaDesde": "",
+                                "vigenciaHasta": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "carniceria": [
+                        {
+                            "nombre": "filete de ternera",
+                            "descripcion": "filete de ternera de 2ª",
+                            "perecedero": true,
+                            "precioVta": 8.7,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "pollo",
+                            "descripcion": "muslos de pollo deshuesados",
+                            "perecedero": true,
+                            "precioVta": 7.1,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "salchichas",
+                            "descripcion": "salchichas de cerdo",
+                            "perecedero": true,
+                            "precioVta": 5.2,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": false,
+                                "porcentajeDescuento": 0,
+                                "vigenciaDesde": "",
+                                "vigenciaHasta": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "drogueria": [
+                        {
+                            "nombre": "Wipp Express",
+                            "descripcion": "Detergente para lavar ropa",
+                            "perecedero": false,
+                            "precioVta": 15,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": false,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 5,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "Fairy lavavajillas",
+                            "descripcion": "Jabón para lavar platos",
+                            "perecedero": false,
+                            "precioVta": 4.1,
+                            "unidades": "0.5",
+                            "unidadDeMedida": "l",
+                            "adquirido": false,
+                            "habitual": false,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 10,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "Scotex papel higiénico",
+                            "descripcion": "Papel higiénico 4 capas",
+                            "perecedero": false,
+                            "precioVta": 7.5,
+                            "unidades": "12",
+                            "unidadDeMedida": "rollo",
+                            "adquirido": true,
+                            "habitual": false,
+                            "oferta": {
+                                "activa": false,
+                                "porcentajeDescuento": 0,
+                                "vigenciaDesde": "",
+                                "vigenciaHasta": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "nombre": "Aldi",
+            "direccion": "Av. de la Libertad, 72",
+            "cp": 28770,
+            "poblacion": "Colmenar Viejo",
+            "provincia": "Madrid",
+            "geolocalizacion": [
+                40.65830156901644,
+                -3.7589456569449227
+            ],
+            "seccion": [
+                {
+                    "fruteria": [
+                        {
+                            "nombre": "tomate rama",
+                            "descripcion": "tomate rama huerta Murcia",
+                            "perecedero": true,
+                            "precioVta": 3.27,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "pera conferencia",
+                            "descripcion": "pera conferencia denominación origen Bierzo",
+                            "perecedero": true,
+                            "precioVta": 2.1,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "plátano de Canarias",
+                            "descripcion": "plátano de Canarias",
+                            "perecedero": true,
+                            "precioVta": 3.7,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": false,
+                                "porcentajeDescuento": 0,
+                                "vigenciaDesde": "",
+                                "vigenciaHasta": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "carniceria": [
+                        {
+                            "nombre": "filete de ternera",
+                            "descripcion": "filete de ternera de 2ª",
+                            "perecedero": true,
+                            "precioVta": 8.7,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "pollo",
+                            "descripcion": "muslos de pollo deshuesados",
+                            "perecedero": true,
+                            "precioVta": 7.1,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 20,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "salchichas",
+                            "descripcion": "salchichas de cerdo",
+                            "perecedero": true,
+                            "precioVta": 5.2,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": true,
+                            "oferta": {
+                                "activa": false,
+                                "porcentajeDescuento": 0,
+                                "vigenciaDesde": "",
+                                "vigenciaHasta": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "drogueria": [
+                        {
+                            "nombre": "Wipp Express",
+                            "descripcion": "Detergente para lavar ropa",
+                            "perecedero": false,
+                            "precioVta": 15,
+                            "unidades": "1",
+                            "unidadDeMedida": "kg",
+                            "adquirido": false,
+                            "habitual": false,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 5,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "Fairy lavavajillas",
+                            "descripcion": "Jabón para lavar platos",
+                            "perecedero": false,
+                            "precioVta": 4.1,
+                            "unidades": "0.5",
+                            "unidadDeMedida": "l",
+                            "adquirido": false,
+                            "habitual": false,
+                            "oferta": {
+                                "activa": true,
+                                "porcentajeDescuento": 10,
+                                "vigenciaDesde": "26/03/2023",
+                                "vigenciaHasta": "04/04/2023"
+                            }
+                        },
+                        {
+                            "nombre": "Scotex papel higiénico",
+                            "descripcion": "Papel higiénico 4 capas",
+                            "perecedero": false,
+                            "precioVta": 7.5,
+                            "unidades": "12",
+                            "unidadDeMedida": "rollo",
+                            "adquirido": true,
+                            "habitual": false,
+                            "oferta": {
+                                "activa": false,
+                                "porcentajeDescuento": 0,
+                                "vigenciaDesde": "",
+                                "vigenciaHasta": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

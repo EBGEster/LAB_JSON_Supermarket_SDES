@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <id>01</id>
+  <nombre>Carrefour</nombre>
+  <direccion>Av. de los Labradores, 9, 11</direccion>
+  <cp>28760</cp>
+  <poblacion>Tres Cantos</poblacion>
+  <provincia>Madrid</provincia>
+  <geolocalizacion>40.59977662673469</geolocalizacion>
+  <geolocalizacion>-3.7082287400609313</geolocalizacion>
+  <seccion>
+    <fruteria>
+      <nombre>tomate rama</nombre>
+      <descripcion>tomate rama huerta Murcia</descripcion>
+      <perecedero>true</perecedero>
+      <precioVta>3.27</precioVta>
+      <unidades>1</unidades>
+      <unidadDeMedida>kg</unidadDeMedida>
+      <adquirido>false</adquirido>
+      <habitual>true</habitual>
+      <oferta>
+        <activa>true</activa>
+        <porcentajeDescuento>20</porcentajeDescuento>
+        <vigenciaDesde>26/03/2023</vigenciaDesde>
+        <vigenciaHasta>04/04/2023</vigenciaHasta>
+      </oferta>
+    </fruteria>
+    <fruteria>
+      <nombre>pera conferencia</nombre>
+      <descripcion>pera conferencia denominación origen Bierzo</descripcion>
+      <perecedero>true</perecedero>
+      <precioVta>2.1</precioVta>
+      <unidades>1</unidades>
+      <unidadDeMedida>kg</unidadDeMedida>
+      <adquirido>false</adquirido>
+      <habitual>true</habitual>
+      <oferta>
+        <activa>true</activa>
+        <porcentajeDescuento>20</porcentajeDescuento>
+        <vigenciaDesde>26/03/2023</vigenciaDesde>
+        <vigenciaHasta>04/04/2023</vigenciaHasta>
+      </oferta>
+    </fruteria>
+    <fruteria>
+      <nombre>plátano de Canarias</nombre>
+      <descripcion>plátano de Canarias</descripcion>
+      <perecedero>true</perecedero>
+      <precioVta>3.7</precioVta>
+      <unidades>1</unidades>
+      <unidadDeMedida>kg</unidadDeMedida>
+      <adquirido>false</adquirido>
+      <habitual>true</habitual>
+      <oferta>
+        <activa>false</activa>
+        <porcentajeDescuento>0</porcentajeDescuento>
+        <vigenciaDesde></vigenciaDesde>
+        <vigenciaHasta></vigenciaHasta>
+      </oferta>
+    </fruteria>
+  </seccion>
+  <seccion>
+    <carniceria>
+      <nombre>filete de ternera</nombre>
+      <descripcion>filete de ternera de 2ª</descripcion>
+      <perecedero>true</perecedero>
+      <precioVta>8.7</precioVta>
+      <unidades>1</unidades>
+      <unidadDeMedida>kg</unidadDeMedida>
+      <adquirido>false</adquirido>
+      <habitual>true</habitual>
+      <oferta>
+        <activa>true</activa>
+        <porcentajeDescuento>20</porcentajeDescuento>
+        <vigenciaDesde>26/03/2023</vigenciaDesde>
+        <vigenciaHasta>04/04/2023</vigenciaHasta>
+      </oferta>
+    </carniceria>
+    <carniceria>
+      <nombre>pollo</nombre>
+      <descripcion>muslos de pollo deshuesados</descripcion>
+      <perecedero>true</perecedero>
+      <precioVta>7.1</precioVta>
+      <unidades>1</unidades>
+      <unidadDeMedida>kg</unidadDeMedida>
+      <adquirido>false</adquirido>
+      <habitual>true</habitual>
+      <oferta>
+        <activa>true</activa>
+        <porcentajeDescuento>20</porcentajeDescuento>
+        <vigenciaDesde>26/03/2023</vigenciaDesde>
+        <vigenciaHasta>04/04/2023</vigenciaHasta>
+      </oferta>
+    </carniceria>
+    <carniceria>
+      <nombre>salchichas</nombre>
+      <descripcion>salchichas de cerdo</descripcion>
+      <perecedero>true</perecedero>
+      <precioVta>5.2</precioVta>
+      <unidades>1</unidades>
+      <unidadDeMedida>kg</unidadDeMedida>
+      <adquirido>false</adquirido>
+      <habitual>true</habitual>
+      <oferta>
+        <activa>false</activa>
+        <porcentajeDescuento>0</porcentajeDescuento>
+        <vigenciaDesde></vigenciaDesde>
+        <vigenciaHasta></vigenciaHasta>
+      </oferta>
+    </carniceria>
+  </seccion>
+  <seccion>
+    <drogueria>
+      <nombre>Wipp Express</nombre>
+      <descripcion>Detergente para lavar ropa</descripcion>
+      <perecedero>false</perecedero>
+      <precioVta>15</precioVta>
+      <unidades>1</unidades>
+      <unidadDeMedida>kg</unidadDeMedida>
+      <adquirido>false</adquirido>
+      <habitual>false</habitual>
+      <oferta>
+        <activa>true</activa>
+        <porcentajeDescuento>5</porcentajeDescuento>
+        <vigenciaDesde>26/03/2023</vigenciaDesde>
+        <vigenciaHasta>04/04/2023</vigenciaHasta>
+      </oferta>
+    </drogueria>
+    <drogueria>
+      <nombre>Fairy lavavajillas</nombre>
+      <descripcion>Jabón para lavar platos</descripcion>
+      <perecedero>false</perecedero>
+      <precioVta>4.1</precioVta>
+      <unidades>0.5</unidades>
+      <unidadDeMedida>l</unidadDeMedida>
+      <adquirido>false</adquirido>
+      <habitual>false</habitual>
+      <oferta>
+        <activa>true</activa>
+        <porcentajeDescuento>10</porcentajeDescuento>
+        <vigenciaDesde>26/03/2023</vigenciaDesde>
+        <vigenciaHasta>04/04/2023</vigenciaHasta>
+      </oferta>
+    </drogueria>
+    <drogueria>
+      <nombre>Scotex papel higiénico</nombre>
+      <descripcion>Papel higiénico 4 capas</descripcion>
+      <perecedero>false</perecedero>
+      <precioVta>7.5</precioVta>
+      <unidades>12</unidades>
+      <unidadDeMedida>rollo</unidadDeMedida>
+      <adquirido>true</adquirido>
+      <habitual>false</habitual>
+      <oferta>
+        <activa>false</activa>
+        <porcentajeDescuento>0</porcentajeDescuento>
+        <vigenciaDesde></vigenciaDesde>
+        <vigenciaHasta></vigenciaHasta>
+      </oferta>
+    </drogueria>
+  </seccion>
+</root>
